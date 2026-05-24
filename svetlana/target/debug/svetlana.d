@@ -1,1 +1,1 @@
-/root/rustcode/svetlana/target/debug/svetlana: /root/rustcode/svetlana/src/main.rs
+/home/sakis/rustcode/svetlana/target/debug/svetlana: /home/sakis/rustcode/svetlana/src/main.rs
